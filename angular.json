@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angularHostDemo"
+  "defaultProject": "angularHostDemo",
+  "cli": {
+    "analytics": "a27f7ab1-a770-49c3-ad4c-05a8394de591"
+  }
 }
